@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./logo.svg" alt="glasgow">
+	<img src="./logo.svg" alt="glasgow" width="100%">
 
 > Lean image-resizing service built with Deno + TypeScript. Originally created for IPFS.
 
