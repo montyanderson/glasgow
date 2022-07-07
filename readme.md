@@ -1,6 +1,9 @@
-# glasgow
+<div align="center">
+	<img src="./logo.svg" alt="glasgow">
 
-Lean image-resizing service built with Deno + TypeScript. Originally created for IPFS.
+> Lean image-resizing service built with Deno + TypeScript. Originally created for IPFS.
+
+</div>
 
 ## usage
 
