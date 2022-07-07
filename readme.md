@@ -34,3 +34,5 @@ Run.
 ```
 deno task start
 ```
+
+`http://localhost:8000/microscopic/monty.jpg` now shows a resized version of `http://my-server/my-images/monty.jpg`.
