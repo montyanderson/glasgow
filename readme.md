@@ -6,7 +6,7 @@ Lean image-resizing service built with Deno + TypeScript. Originally created for
 
 Create `config.ts` and add your configuration.
 
-```
+```typescript
 import { Config } from "./types/config.ts";
 
 export const config: Config = {
