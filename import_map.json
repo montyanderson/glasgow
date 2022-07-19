@@ -1,6 +1,7 @@
 {
 	"imports": {
 		"jimp": "https://esm.sh/jimp@0.16.1",
-		"http/server": "https://deno.land/std@0.147.0/http/server.ts"
+		"http/server": "https://deno.land/std@0.147.0/http/server.ts",
+		"lru": "https://deno.land/x/lru_cache@6.0.0-deno.4/mod.ts"
 	}
 }
