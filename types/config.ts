@@ -1,5 +1,6 @@
 export type Route = {
 	size: number;
+	cache: number;
 };
 
 export type Config = {
